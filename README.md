@@ -9,3 +9,6 @@ La base de datos cuenta con la siguiente información:
 - “espesor”. Espesor del desplazamiento en el lado de succión, en metros.
 - “presion”. Nivel escalado de presión sonora, en dB.
 
+- [Reporte en formato ipynb](./jupiter13.ipynb)
+- [Reporte en formato html](./HTML13.html)
+- [Base de datos](./NASA.csv)
